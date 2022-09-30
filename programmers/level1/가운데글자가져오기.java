@@ -11,3 +11,7 @@ class Solution {
         return answer;
     }
 }
+
+
+// 조건문을 쓰지 않는 풀이 
+// return word.substring((word.length()-1) / 2, word.length()/2 + 1); 
