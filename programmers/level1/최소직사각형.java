@@ -2,7 +2,6 @@ class Solution {
     public int solution(int[][] sizes) {
         int answer = 0;
 
-        // 가로는 긴거 세로는 짧은 거로 설정해주기 (하나에 몰아주기) 
         int max_w = 0; 
         int max_h = 0;
         
