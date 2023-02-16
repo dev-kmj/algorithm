@@ -1,4 +1,4 @@
-public class Main {
+public class Boj_4673 {
 
     public static void main(String[] args) {
 
