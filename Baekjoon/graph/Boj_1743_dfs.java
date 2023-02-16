@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Boj_1743_dfs {
 
     static int n, m, k, answer, tmp;
     static int dx[] = {-1, 1, 0, 0};
