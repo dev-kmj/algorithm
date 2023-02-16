@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class Main {
+public class Boj_9084 {
     private static int t, n, m;
     private static int[] arr, coins;
 
