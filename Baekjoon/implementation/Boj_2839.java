@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Baekjoon {
+public class Boj_2839 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
