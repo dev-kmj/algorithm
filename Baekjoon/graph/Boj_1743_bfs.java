@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Boj_1743_bfs {
 
     static int n, m, k, answer, cnt;
     static int dx[] = {-1, 1, 0, 0};
