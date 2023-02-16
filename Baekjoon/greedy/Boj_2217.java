@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class Main {
+public class Boj_2217 {
 
     public static void main(String[] args) throws IOException {
 
