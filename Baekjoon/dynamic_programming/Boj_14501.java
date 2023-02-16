@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Boj_14501 {
     static int n;
     static int[] t = new int[15];   // 각 상담 완료 기간
     static int[] p = new int[15];   // 상담 완료시 받는 금액
