@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main {
+public class Boj_1260 {
     static boolean[] visited;
     static ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
 
