@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Boj_1932 {
     static int[][] arr;  // 정수 삼각형 입력 받을 배열 
     static Integer[][] dp; // 경로 합을 저장할 dp배열 
     static int n;
