@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class 모음사전전 {
+class 모음사전 {
     static String[] arr;
     static List<String> list;
     public int solution(String word) {
